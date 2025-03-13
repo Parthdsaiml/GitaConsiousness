@@ -1,4 +1,4 @@
-#Steps
+# Steps
 
 1. Load the data
 2. Manually tagged (Characters, Themes, Actions, Emotions, Speaker, Listener, Contextual Tag by making clusters)
