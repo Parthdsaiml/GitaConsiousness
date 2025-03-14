@@ -9,7 +9,7 @@
 7. After matching all, we store it into the Embedding Variable and sort it out in descending order
 8. Extract the top k indices that are most relatable verse to prompt
 9. Provide the output
-10. Added the verse number and thinking of adding contextual meaning after each column [https://github.com/Parthdsaiml/GitaConsiousness/blob/main/sources/ContextMeaning.py]
+10. Added the verse number and thinking of adding contextual meaning after each column [https://github.com/Parthdsaiml/GitaConsiousness/blob/main/sources/ContextMeaning.json]
 -----------------
 
 What we thinking now
