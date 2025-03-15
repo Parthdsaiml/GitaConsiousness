@@ -12,7 +12,7 @@
     Input: "I’m struggling with failure and self-doubt."  
     Output: "Bhagavad Gita 2.47 teaches... [Explanation of karma vs. attachment]."  
     ```
-  DataSetLink![https://github.com/Parthdsaiml/GitaConsiousness/blob/main/sources/FineTuningData.json]
+  DataSetLink [https://github.com/Parthdsaiml/GitaConsiousness/blob/main/sources/FineTuningData.json]
 - **Step 2: Choose a Base Model**  
   - Use a **smaller, domain-specific LLM** (e.g., GPT-3.5, Mistral, or LLaMA 2) for efficiency.  
   - Avoid overly large models (they’ll be slower and costlier for your niche use case).  
