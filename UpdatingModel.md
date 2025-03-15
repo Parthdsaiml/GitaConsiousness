@@ -1,4 +1,3 @@
-L
 ### **1. Fine-Tuning the LLM**  
 **Objective**: Make the model deeply understand the **Bhagavad Gita’s context** to generate *accurate, relevant, and culturally aligned* responses.  
 
